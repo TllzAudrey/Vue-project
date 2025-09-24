@@ -6,6 +6,7 @@ const template = `
     <p>{{text}}</p>
   </div>
 `;
+// mettre en lien la reponse dans app.vue et object
 const object = {
   project: "",
   name: "",
