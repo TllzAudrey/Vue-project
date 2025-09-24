@@ -20,4 +20,9 @@
   <p v-else>{{ name }}, {{ project }}, {{ text }}</p>
 </template>
 
-<style scoped></style>
+<style scoped>
+input{
+  display: block;
+  margin-bottom: 5px;
+}
+</style>
